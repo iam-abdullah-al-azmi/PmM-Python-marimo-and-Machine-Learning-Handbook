@@ -2,3 +2,7 @@
 .venv/
 **site/
 **__marimo__/
+
+# Sphinx build output and lesson pages copied in at build time
+docs/_build/
+docs/lessons/
