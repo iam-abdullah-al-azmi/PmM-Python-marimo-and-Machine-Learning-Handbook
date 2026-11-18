@@ -1,12 +1,17 @@
 # Python Programming Language Handbook
 
-![Python x marimo](python-marimo-banner.jpg)
+![Python x marimo](python-marimo-banner.png)
 
 ## Summary
 
-This repository is a self-study Python course for people who want to learn on their own. It has 15 lessons, from `print()` to data visualization. Every lesson has four lesson notebooks and four exercises.
+This repository is a self-study Python course for people who want to learn on
+their own. It has 15 lessons, from `print()` to data visualization. Every lesson
+has four lesson notebooks and four exercises.
 
-The lessons are [marimo](https://marimo.io/) notebooks instead of plain Python files. marimo is a newer Python notebook that addresses limitations of the Jupyter Notebook. So, along with learning the Python programming language, you also learn how to get started with marimo notebooks.
+The lessons are [marimo](https://marimo.io/) notebooks instead of plain Python
+files. marimo is a newer Python notebook that addresses limitations of the
+Jupyter Notebook. So, along with learning the Python programming language, you
+also learn how to get started with marimo notebooks.
 
 ## Course structure
 
@@ -28,23 +33,26 @@ The lessons are [marimo](https://marimo.io/) notebooks instead of plain Python f
 | 14     | [Matplotlib Visualization](SYLLABUS.md#lesson-14-matplotlib-visualization)                   |
 | 15     | [Seaborn and Plotly Visualization](SYLLABUS.md#lesson-15-seaborn-and-plotly-visualization)   |
 
-For a detailed overview of the course, please go to [SYLLABUS.md](/SYLLABUS.md) file.
+For a detailed overview of the course, please go to [SYLLABUS.md](/SYLLABUS.md)
+file.
 
 ## Prerequisites
 
-- A recent version of Python 3, from [python.org](https://www.python.org/downloads/).
-- A code editor such as Visual Studio Code, or just a terminal and a web browser.
+01: A recent version of Python 3, from [python.org](https://www.python.org/downloads/).
+
+02: A code editor such as Visual Studio Code, or just a terminal and a web browser.
 
 ## Setup
 
-1. Clone or download this repository.
-2. Install the packages used by the notebooks:
+01: Clone or download this repository.
+
+02: Install the packages used by the notebooks:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Open any notebook in the marimo editor, for example:
+03: Open any notebook in the marimo editor, for example:
 
 ```bash
 marimo edit Lesson_01/marimo/01_Printing_Output.py
@@ -54,5 +62,20 @@ To run a notebook as a read-only app instead, use `marimo run <file>`.
 
 ## Acknowledgements
 
-- The structure of this README (overview, prerequisites, repository layout, how to use the course, and a separate syllabus file) follows the example of the [ReDI School of Digital Integration introduction-to-python course](https://github.com/ReDI-Aarhus/introduction-to-python).
-- The order of the lessons follows the [GeeksforGeeks Python Programming Language Tutorial](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/).
+01: The order of the lessons follows the [GeeksforGeeks Python Programming Language
+Tutorial](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/).
+
+02: The structure of this README (overview, prerequisites, repository layout, how
+to use the course, and a separate syllabus file) follows the example of the
+[ReDI School of Digital Integration introduction-to-python course](https://github.com/ReDI-Aarhus/introduction-to-python).
+
+## References
+
+01: The marimo Logo has been adapted from
+[https://marimo.app/](https://marimo.app/)
+
+02: The Python Logo has been adapted from
+[https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg](https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg)
+
+03: The Single Layer Perceptron Logo has been adapted from
+[https://thenounproject.com/browse/icons/term/perceptron/](https://thenounproject.com/browse/icons/term/perceptron/)
