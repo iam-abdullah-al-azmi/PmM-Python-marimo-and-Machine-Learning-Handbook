@@ -77,5 +77,4 @@ to use the course, and a separate syllabus file) follows the example of the
 02: The Python Logo has been adapted from
 [https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg](https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg)
 
-03: The Single Layer Perceptron Logo has been adapted from
-[https://thenounproject.com/browse/icons/term/perceptron/](https://thenounproject.com/browse/icons/term/perceptron/)
+03: The Single Layer Perceptron Logo has been adapted from [https://thenounproject.com/browse/icons/term/perceptron/](https://thenounproject.com/browse/icons/term/perceptron/)
