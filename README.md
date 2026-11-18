@@ -1,4 +1,4 @@
-# PMm | Python, Machine Learning, and marimo Handbook
+# PmM | Python, marimo and Machine Learning Handbook
 
 ![Python x marimo](python-marimo-banner.png)
 
