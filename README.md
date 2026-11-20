@@ -4,14 +4,18 @@
 
 ## Summary
 
-This repository is a self-study Python course for people who want to learn on
-their own. It has 15 lessons, from `print()` to data visualization. Every lesson
-has four lesson notebooks and four exercises.
+This repository contains the resources for learning Python, marimo (a new Python
+notebook), Data Science, and Machine Learning. The resources are the collection
+of how I learned all of the concepts mentioned above from the Machine Learning
+course by Phitron. I am really grateful to them, especially, to the whole team,
+mentors, and organizers.
 
-The lessons are [marimo](https://marimo.io/) notebooks instead of plain Python
-files. marimo is a newer Python notebook that addresses limitations of the
-Jupyter Notebook. So, along with learning the Python programming language, you
-also learn how to get started with marimo notebooks.
+The repository are structured into two precedence, Lesson and Notebook. Each of
+the Lesson contain a specific concepts. The Notebook category created for one
+purpose. Currently, embedding the marimo notebook like markdown is a bit
+complicated. That's why, I exported the marimo notebook to Jupyter notebook,
+so that, if anyone want to read it directly on the browser, he or she can do
+so. The detailed course structure is provided below:
 
 ## Course structure
 
@@ -33,7 +37,7 @@ also learn how to get started with marimo notebooks.
 | 14     | [Matplotlib Visualization](SYLLABUS.md#lesson-14-matplotlib-visualization)                   |
 | 15     | [Seaborn and Plotly Visualization](SYLLABUS.md#lesson-15-seaborn-and-plotly-visualization)   |
 
-For a detailed overview of the course, please go to [SYLLABUS.md](/SYLLABUS.md)
+For more fragmented and detailed overview, please go to [SYLLABUS.md](/SYLLABUS.md)
 file.
 
 ## Prerequisites
